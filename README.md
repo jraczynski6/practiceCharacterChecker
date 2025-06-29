@@ -1,0 +1,2 @@
+This program was quite challenging. It forced me to learn concepts I wasn't well versed in. Specifically, I had to figure out how to use the if else statements properly. 
+At one point, I wanted to add an error message. This proved to be far more difficult than I expected. I didnt really understand .length or how to properly syntax >=. Once I understood the concept a little better, I was able to console.log an appropriate error message.
